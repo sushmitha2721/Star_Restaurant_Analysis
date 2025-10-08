@@ -21,3 +21,7 @@ The main goal was to understand the restaurant data, explore patterns, and prepa
 4. **Customizable Views**
    - Filter by city and country to display top 5, 10, 15, 20 restaurants
 ---
+
+## Dashboard 
+
+![image alt][Dashboard.png]
