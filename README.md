@@ -24,4 +24,4 @@ The main goal was to understand the restaurant data, explore patterns, and prepa
 
 ## Dashboard 
 
-![image alt][https://github.com/sushmitha2721/Star_Restaurant_Analysis/blob/d59364d98c604117e4df61b96f89434725a70584/Dashboard.png]
+![image alt](https://github.com/sushmitha2721/Star_Restaurant_Analysis/blob/d59364d98c604117e4df61b96f89434725a70584/Dashboard.png)
